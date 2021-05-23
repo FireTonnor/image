@@ -1,0 +1,6 @@
+wget https://media.forgecdn.net/files/3198/633/Clearlag.jar
+wget https://media.forgecdn.net/files/3283/695/worldedit-bukkit-7.2.5-dist.jar
+wget https://media.forgecdn.net/files/3023/799/Timber+1.0.9.jar
+wget https://media.forgecdn.net/files/3308/911/SuperVanish-6.2.6.jar
+wget https://media.forgecdn.net/files/2941/945/LoginSecurity-3.0.2-Bukkit.jar
+wget https://media.forgecdn.net/files/3113/218/EssentialsX-2.18.2.0.jar
